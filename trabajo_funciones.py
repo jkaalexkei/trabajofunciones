@@ -16,7 +16,7 @@ def valoresSumar(dato): #creamos una funcion que recibe como argumento eñ numer
         res = res + numero# realizamos la suma de los valoresa
 
         contador += 1 #incrementamos el contador hasta que se cumpla la condicion
-
+    #kjk
     
     print("El resultado es: " + str(res)) #imprimimos por pantalla el resultado de la suma
 
